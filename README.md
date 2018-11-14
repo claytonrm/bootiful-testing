@@ -7,4 +7,4 @@ Example using TDD approach with Spring boot application
 ## Building
 `gradle build`
 
-These implementation is based on/comes from https://www.youtube.com/watch?v=lTSJCr7xdbM
+This implementation is based on/comes from https://www.youtube.com/watch?v=lTSJCr7xdbM
